@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Back-End Development**
 
-- 💬 Ask me about **DSA, JAVA, Kotlin**
+- 💬 Ask me about **DSA, JAVA, Kotlin, Node.js **
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rehan-ahmed-khan-813173190/">LinkedIn</a>
 
