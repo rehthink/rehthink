@@ -1,38 +1,63 @@
-<h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">An Android Developer, Co-founder and exploring lives through code</h3>
+<h1 align="center">Hey there 👋, I'm Rehan</h1>
+<h3 align="center">I turn messy data into smart systems and teach AI agents to do real work 🤖⚡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehthinka&label=Profile%20views&color=0e75b6&style=flat" alt="rehthink" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer;Claude+Certified+Architect;AWS+Certified+%E2%98%81%EF%B8%8F;Building+Agentic+AI+that+ships+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **MVVM, Android Jetpack and Startup development Strategies** 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehthink&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 👯 I’m looking to collaborate on **Android Projects**
+## 🧠 A little about me
 
-- 🤝 I’m looking for help with **Back-End Development**
+- 🛠️ Started out building **Android apps**, fell in love with **data**, and now spend my days building **Gen AI and agentic systems** that turn raw data into decisions
+- 🤖 Currently obsessed with **Agentic AI**: wiring up **Claude Code, Amazon Bedrock** and LLM agents that actually get things done
+- 🏗️ Comfortable across the cloud trio, **AWS, Azure and GCP**, plus **Databricks** for crunching data at scale
+- 🔁 Big fan of clean **ETL pipelines**, reliable **MLOps** and APIs that just work (**FastAPI** 💚)
+- 💬 Ask me about **Python, PySpark, SQL, Gen AI agents, prompt and context engineering**
+- ⚡ Fun fact: I collect certifications the way some people collect sneakers 👟
 
-- 💬 Ask me about **DSA, JAVA, Kotlin, Node.js**
+## 🏅 Badges I've earned
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rehan-ahmed-khan-813173190/">LinkedIn</a>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rehan-ahmed-khan-813173190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rehan-ahmed-khan-813173190/" height="20" width="30" /></a>
-<a href="https://instagram.com/rehthink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rehthink" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/rehnk007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rehnk007" height="20" width="30" /></a>
+  <img src="https://img.shields.io/badge/Claude%20Certified-Architect%20Professional-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Certified-Developer-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Certified-Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Certified-Associate-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## 🧰 My toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,fastapi,mysql,postgres,aws,azure,gcp,docker,git,linux,postman,sklearn&perline=15" alt="tech stack" />
+</p>
+
+**🔮 Data & AI magic:** PySpark · Databricks · SQL · ETL · Azure Data Factory · AWS Glue · AWS Lambda · Amazon Bedrock · Claude API · Agentic AI · MLOps · NLP
+
+## 🤝 Let's connect
+
+Got an idea involving data, AI agents or something that sounds impossible? I'm all ears 👂
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rehthink/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="30" /></a>
+<a href="https://instagram.com/rehthink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="30" /></a>
+<a href="https://www.hackerrank.com/rehnk007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="20" width="30" /></a>
 </p>
 
 <details>
-  <summary>:zap: GitHub Status</summary>
+<summary>⚡ GitHub Stats</summary>
 
-  ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehthink)
-  
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehthink&show_icons=true)
+
 </details>
 <details>
-  <summary>:computer: Most Used Languages </summary>
+<summary>💻 Most Used Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehthink&langs_count=8)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehthink&langs_count=8&layout=compact)
+
 </details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> </p>
-
+<p align="center"><i>"Code it, automate it, then let the agents handle it." ✨</i></p>
